@@ -26,7 +26,9 @@ public void setup() throws InterruptedException, IOException
 	"E:\\Chrome\\chromedriver-win32\\chromedriver.exe");
 	
 	driver = new ChromeDriver();
+	
 	PropertyConfigurator.configure("log4j.properties");
+	
 	log.info("Broweser is opened");
 	Thread.sleep(2000);
 	
