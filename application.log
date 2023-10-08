@@ -1,0 +1,11 @@
+2023-10-08 21:50:22,342  INFO [main] Saucedemo_Projet:30 - Broweser is opened
+2023-10-08 21:50:26,489  INFO [main] Saucedemo_Projet:35 - window is maximized
+2023-10-08 21:50:28,808  INFO [main] Saucedemo_Projet:38 - URL is Opened
+2023-10-08 21:50:30,955  INFO [main] Saucedemo_Projet:46 - Username is Entered
+2023-10-08 21:50:33,054  INFO [main] Saucedemo_Projet:50 - Password is Entered
+2023-10-08 21:50:35,180  INFO [main] Saucedemo_Projet:54 - Click on loginbutton
+2023-10-08 21:50:37,190  INFO [main] Saucedemo_Projet:57 - Home page is opened
+2023-10-08 21:50:37,363  INFO [main] Saucedemo_Projet:61 - snap is Taken
+2023-10-08 21:50:37,368  INFO [main] Saucedemo_Projet:12 - apply verification
+2023-10-08 21:50:37,561  INFO [main] Saucedemo_Projet:69 - Browser is closed
+2023-10-08 21:50:37,561  INFO [main] Saucedemo_Projet:70 - End of Programme
